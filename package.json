@@ -1,0 +1,17 @@
+{
+  "name": "elfinder-material-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Material/theme.css",
+  "style": "Material/theme.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chay22/elFinder-Material-Theme.git"
+  },
+  "author": "RobiNN1",
+  "homepage": "https://github.com/RobiNN1/elFinder-Material-Theme",
+  "license": ""
+}
